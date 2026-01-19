@@ -181,3 +181,9 @@ Contributions welcome! Feel free to:
 - Improve existing components
 - Extend base tools
 - Enhance documentation
+
+## Contact
+
+![Contact QR Code](contact.png)
+
+Scan the QR code to connect with me
